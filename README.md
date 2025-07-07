@@ -21,7 +21,7 @@
 
 📄 [User Guide (PDF)](./User_Guide.pdf)  
 
-🔗 [View All Releases]([https://github.com/notrishi-1/crystal-auto-logger/releases](https://github.com/notrishi-1/Crystal-Auto-Logger/releases))
+🔗 [View All Releases](https://github.com/notrishi-1/Crystal-Auto-Logger/releases)
 
 ---
 
