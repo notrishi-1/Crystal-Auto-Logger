@@ -23,11 +23,5 @@
 
 🔗 [View All Releases](https://github.com/notrishi-1/Crystal-Auto-Logger/releases)
 
----
-
-## 🖼️ Preview
-
-*(Optional — Add screenshot if available)*  
-![Screenshot](assets/screenshot.png)
 
 
