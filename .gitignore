@@ -1,0 +1,34 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Compiled executable builds
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# User credentials or configs
+config.json
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated assets
+*.ico
+*.png
+*.zip
