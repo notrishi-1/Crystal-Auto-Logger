@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Crystal Auto Logger Logo" width="160"/>
+</p>
+
+
+
+
 # 🔐 Crystal Auto Logger
 
 **Crystal Auto Logger** is a lightweight Python application that automatically logs you into the **BMSCE student portal (Contineo)** using Chrome and Selenium. It features a clean Tkinter GUI for quickly editing your login details, then disappears while Chrome opens and handles your login seamlessly.
