@@ -17,9 +17,9 @@
 
 ## 📦 Download
 
-➡️ [Download CrystalAutoLogger.exe](https://github.com/notrishi-1/crystal-auto-logger/releases/latest/download/CrystalAutoLogger.exe)  
+➡️ [Download CrystalAutoLogger.zip](https://github.com/notrishi-1/Crystal-Auto-Logger/releases/download/untagged-2f554d7bc979973d2b6b/Crystal.Logger-v1.0.zip)
 📄 [User Guide (PDF)](./User_Guide.pdf)  
-🔗 [View All Releases](https://github.com/notrishi-1/crystal-auto-logger/releases)
+🔗 [View All Releases]([https://github.com/notrishi-1/crystal-auto-logger/releases](https://github.com/notrishi-1/Crystal-Auto-Logger/releases))
 
 ---
 
