@@ -48,7 +48,7 @@ def show_config_window(existing=None):
     digits_var = tk.StringVar(value=existing.get("last_4_digits", "") if existing else "")
 
     entries = [
-        ("Email", email_var),
+        ("Username", email_var),
         ("Day", day_var),
         ("Month", month_var),
         ("Year", year_var),
@@ -133,6 +133,7 @@ exit_btn = tk.Button(root, text="Exit", width=30, command=root.quit)
 
 root.after(100, start_login)
 root.iconbitmap(resource_path("app_icon.ico"))
+root.after(30*60*1000, root.quit)
 
 root.mainloop()
 
